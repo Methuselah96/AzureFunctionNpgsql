@@ -1,0 +1,11 @@
+C:\Users\ParagonUser\Documents\AzureFunctionNpgsql\FunctionApp1\FunctionCaller\obj\Debug\netcoreapp2.1\FunctionCaller.csproj.CoreCompileInputs.cache
+C:\Users\ParagonUser\Documents\AzureFunctionNpgsql\FunctionApp1\FunctionCaller\obj\Debug\netcoreapp2.1\FunctionCaller.AssemblyInfoInputs.cache
+C:\Users\ParagonUser\Documents\AzureFunctionNpgsql\FunctionApp1\FunctionCaller\obj\Debug\netcoreapp2.1\FunctionCaller.AssemblyInfo.cs
+C:\Users\ParagonUser\Documents\AzureFunctionNpgsql\FunctionApp1\FunctionCaller\bin\Debug\netcoreapp2.1\FunctionCaller.deps.json
+C:\Users\ParagonUser\Documents\AzureFunctionNpgsql\FunctionApp1\FunctionCaller\bin\Debug\netcoreapp2.1\FunctionCaller.runtimeconfig.json
+C:\Users\ParagonUser\Documents\AzureFunctionNpgsql\FunctionApp1\FunctionCaller\bin\Debug\netcoreapp2.1\FunctionCaller.runtimeconfig.dev.json
+C:\Users\ParagonUser\Documents\AzureFunctionNpgsql\FunctionApp1\FunctionCaller\bin\Debug\netcoreapp2.1\FunctionCaller.dll
+C:\Users\ParagonUser\Documents\AzureFunctionNpgsql\FunctionApp1\FunctionCaller\bin\Debug\netcoreapp2.1\FunctionCaller.pdb
+C:\Users\ParagonUser\Documents\AzureFunctionNpgsql\FunctionApp1\FunctionCaller\obj\Debug\netcoreapp2.1\FunctionCaller.dll
+C:\Users\ParagonUser\Documents\AzureFunctionNpgsql\FunctionApp1\FunctionCaller\obj\Debug\netcoreapp2.1\FunctionCaller.pdb
+C:\Users\ParagonUser\Documents\AzureFunctionNpgsql\FunctionApp1\FunctionCaller\obj\Debug\netcoreapp2.1\FunctionCaller.csprojAssemblyReference.cache
